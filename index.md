@@ -4,6 +4,8 @@ This is a listing of conferences that offer some level of financial support to s
 
 Please keep in mind that we aren't official representatives for any of the conferences below so the accuracy of this page is based on best efforts. We will try and keep this page as up-to-date as possible but the conference organisers are the only authoratitave sources.
 
+Are you a conference organiser and would like your details added or amended? Let us know by [opening an issue](https://github.com/quiram/supportedconferences/issues/new) or [raise a PR](https://github.com/quiram/supportedconferences/pulls) with the suggested change.
+
 |Conference|Location|Support|
 |----------|--------|-------|
 |[NDC Porto](https://ndcporto.com)|Porto, Portugal|Travel and accommodation paid for and arranged by the conference organisers (other NDC conferences may offer similar deals)|
